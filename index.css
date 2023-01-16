@@ -80,3 +80,9 @@ footer {
   text-align: center;
   padding: 1em;
 }
+/* Footer styles */
+.footer-icon {
+  width: 32px;
+  height: 32px;
+}
+
