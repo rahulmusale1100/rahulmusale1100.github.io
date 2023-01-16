@@ -1,20 +1,3 @@
-<div class="sun"></div>
-<div class="planet"></div>
-
-.sun {
-  width: 100px;
-  height: 100px;
-  background-color: yellow;
-  border-radius: 50%;
-}
-
-.planet {
-  width: 50px;
-  height: 50px;
-  background-color: blue;
-  border-radius: 25%;
-}
-
 let planet = document.querySelector('.planet');
 let sun = document.querySelector('.sun');
 let radius = 100;
