@@ -19,8 +19,8 @@ body {
 
 /* Header styles */
 header {
-  background-color: #F5F5F5;
-  color: white;
+  background-color: grey;
+  color: black;
   display: flex;
   justify-content: space-between;
   align-items: center;
